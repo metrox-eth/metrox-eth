@@ -1,8 +1,7 @@
 - 👋 Hi, I’m @metrox-eth
-- 👀 I’m interested in design, marketing, UI/UX, robotics, space, bioengineering...
-- 🌱 I’m currently learning web3 / crypto space
+- 👀 I’m interested in web3, democracy, design, marketing, UI/UX, robotics, space, bioengineering.
 - :briefcase: I'm currently working at Snapshot Labs
-- 💞️ I’m looking to collaborate on DAO and VR 
+- 💞️ I’m looking to collaborate on DAOs and VR
 
 <!---
 metrox-eth/metrox-eth is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.

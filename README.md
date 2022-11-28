@@ -1,6 +1,5 @@
 - 👋 Hi, I’m @metrox-eth
 - 👀 I’m interested in web3, democracy, design, marketing, UI/UX, robotics, space, bioengineering.
-- :briefcase: I'm currently working at Snapshot Labs
 - 💞️ I’m looking to collaborate on DAOs and VR
 
 <!---

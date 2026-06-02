@@ -4,7 +4,6 @@ Robotics and embodied AI. I build the hardware and train the policies that run o
 
 **Now**
 - imitation learning on real low-cost arms: ACT, VLA fine-tuning, working toward multi-object manipulation
-- bringing off-the-shelf hardware into lerobot natively, starting with the Waveshare RoArm-M3
 - co-founder of Show Robotics, 3 custom built robots + bimanual rig.
 
 **Before**

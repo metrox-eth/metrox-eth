@@ -3,10 +3,10 @@
 Robotics and embodied AI. / behavioral agentic dev / Public good
 
 **Now**
-- Vita Meets: On tour with an humanoid robots 
+- Vita Meets: On tour with an humanoid robot
 - QuitSponsor: A quit smoking sponsor, evidence-based, open protocol + tg bot, zero shame.
-- imitation learning on real low-cost arms: ACT, VLA fine-tuning, working toward multi-object manipulation
-- co-founder of Show Robotics, 3 custom built robots + bimanual rig.
+- Imitation learning on real low-cost arms: ACT, VLA fine-tuning, working toward multi-object manipulation
+- Co-founder of Show Robotics, 3 custom built robots + bimanual rig.
 
 **Before**
 A decade of physical fabrication (FDM/resin printing, CNC, laser, electroforming) and web3/product work (prev. Snapshot Labs, built for ethereum.org and The Graph).

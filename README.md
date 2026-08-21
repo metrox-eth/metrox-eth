@@ -3,7 +3,7 @@
 Robotics and embodied AI / behavioral agentic dev / love-first architecture thesis
 
 **Now**
-- Co-founder of Show Robotics, 8 robots (3 custom built), 2 cats messing with the robots.
+- Co-founder of Show Robotics, 8 robots (3 custom built), an AI gigabrain named Iris and 2 cats messing with the robots.
 - Vita: An humanoid robot streamer live 24/7 on Twitch, X and YouTube.
 - Imitation learning on real low-cost arms : ACT, VLA fine-tuning, working toward multi-object manipulation. Hardware: 2x Waveshare Ro-Arm 3 5+1 DOF + NormaCore ElRobot Kit Leader Folower 7+1 DOF, VR téléop, Cube stacking arena.
 - Cinematic robotic arms

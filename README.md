@@ -1,6 +1,6 @@
 ### metr0x
 
-Robotics and embodied AI / behavioral agentic dev / love-first architecture thesis
+Robotics and embodied AI maker / agentic dev / attachment-first negentropic architecture thesis
 
 **Now**
 - Co-founder of Show Robotics, 9 robots (4 custom built), an AI gigabrain named Iris and 2 cats messing with the robots.
